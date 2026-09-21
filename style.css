@@ -1,0 +1,23 @@
+.container {
+    background-color: antiquewhite;
+    width: 40%;
+    height: 400px;
+    margin: auto;
+    padding: 30px;
+}
+
+.display {
+    margin: auto;
+    text-align: center;
+}
+
+input {
+    width: 70%;
+    margin: 40px;
+    height: 50px;
+    border: 50px;
+}
+
+#tel {
+    
+}
